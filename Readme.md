@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MyLayoutView/Form1.cs) (VB: [Form1.vb](./VB/MyLayoutView/Form1.vb))
+* [MyGridControl.cs](./CS/MyLayoutView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyLayoutView/MyGridControl.vb))
+* [MyLayoutHandler.cs](./CS/MyLayoutView/MyLayoutHandler.cs) (VB: [MyLayoutHandler.vb](./VB/MyLayoutView/MyLayoutHandler.vb))
+* [MyLayoutView.cs](./CS/MyLayoutView/MyLayoutView.cs) (VB: [MyLayoutView.vb](./VB/MyLayoutView/MyLayoutView.vb))
+* [MyLayoutViewInfo.cs](./CS/MyLayoutView/MyLayoutViewInfo.cs) (VB: [MyLayoutViewInfoRegistrator.vb](./VB/MyLayoutView/MyLayoutViewInfoRegistrator.vb))
+* [MyLayoutViewInfoRegistrator.cs](./CS/MyLayoutView/MyLayoutViewInfoRegistrator.cs) (VB: [MyLayoutViewInfoRegistrator.vb](./VB/MyLayoutView/MyLayoutViewInfoRegistrator.vb))
+<!-- default file list end -->
 # How to create a LayoutView descendant class and register it for design-time use
 
 
